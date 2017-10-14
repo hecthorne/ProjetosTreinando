@@ -14,6 +14,10 @@
 
 /TesteHectorAnalistaPL/WebApp_mvc/bin
 
+*.dll
+*.pdb
+*.cache
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
