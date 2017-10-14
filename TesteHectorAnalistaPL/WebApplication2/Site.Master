@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="WebApp.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>teste</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.css" rel="stylesheet" media="screen" />
+    <script src="<%= Page.ResolveClientUrl("~/Scripts/jquery-1.9.1.min.js") %>" type="text/javascript"></script>
+    <script src="<%= Page.ResolveClientUrl("~/Scripts/bootstrap.min.js") %>" type="text/javascript"></script>
+
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Projeto Teste</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/Paginas/ClientePagina.aspx">Cliente</a></li>
+                        <li><a runat="server" href="~/Paginas/EnderecoPagina.aspx">Endereço</a></li>
+                        <li><a runat="server" href="~/Paginas/ProdutoPagina.aspx">Produto</a></li>
+                        <li><a runat="server" href="~/Paginas/PedidoPagina.aspx">Pedido</a></li>
+
+                    </ul>
+                </div>
+            </div>
+
+        </nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </div>
+    <div>
+    </div>
+
+</body>
+</html>
