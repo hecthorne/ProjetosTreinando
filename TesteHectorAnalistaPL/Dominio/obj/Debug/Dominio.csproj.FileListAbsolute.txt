@@ -7,8 +7,3 @@ C:\Users\Hector&Jessica\Documents\Visual Studio 2017\Projects\TesteHectorAnalist
 C:\Users\Hector&Jessica\Documents\Visual Studio 2017\Projects\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Hector&Jessica\Documents\Visual Studio 2017\Projects\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.dll
 C:\Users\Hector&Jessica\Documents\Visual Studio 2017\Projects\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.pdb
-C:\Users\Hector&Jessica\git\Repos\ProjetosTreinando\TesteHectorAnalistaPL\Dominio\bin\Debug\Dominio.dll
-C:\Users\Hector&Jessica\git\Repos\ProjetosTreinando\TesteHectorAnalistaPL\Dominio\bin\Debug\Dominio.pdb
-C:\Users\Hector&Jessica\git\Repos\ProjetosTreinando\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\Hector&Jessica\git\Repos\ProjetosTreinando\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.dll
-C:\Users\Hector&Jessica\git\Repos\ProjetosTreinando\TesteHectorAnalistaPL\Dominio\obj\Debug\Dominio.pdb
